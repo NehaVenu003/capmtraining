@@ -1,5 +1,5 @@
-function addno(a,b){
-    return a,b;
+function addno(p,b){
+    return p,b;
 }
 
 module.exports={
